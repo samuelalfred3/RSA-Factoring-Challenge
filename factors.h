@@ -8,7 +8,7 @@
 #include <unistd.h>
 #include <gmp.h>
 
-int factorize(char *buffer);
+int factorize_from_buffer(char *buffer);
 void factorize(mpz_t n);
 
 #endif /* _FACTOR_H_ */

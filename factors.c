@@ -1,4 +1,4 @@
-#include "factor.h"
+#include "factors.h"
 #include <stdlib.h>
 
 /**

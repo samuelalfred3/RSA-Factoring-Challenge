@@ -1,4 +1,4 @@
-#include "factor.h"
+#include "factors.h"
 
 void factorize(mpz_t n)
 {

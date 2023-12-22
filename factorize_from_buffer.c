@@ -1,4 +1,4 @@
-#include "factor.h"
+#include "factors.h"
 
 /**
  * factorize - Factorizes a number into two smaller numbers
